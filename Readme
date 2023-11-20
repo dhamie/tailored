@@ -1,0 +1,32 @@
+build a container- docker-compose build/docker build -t container-name/npm run dev(without docker)
+start the container build - docker-compose up
+stop container - docker-compose down
+
+full rest api link tutorial links 
+https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
+
+docker tutorial links 
+https://itnext.io/lets-dockerize-a-nodejs-express-api-22700b4105e4
+https://blog.bitsrc.io/lets-dockerize-a-node-express-app-fdba1cf516b2
+https://medium.com/timeless/deploy-express-api-with-docker-7e814f427fa8
+https://docs.docker.com/get-started/02_our_app/
+
+express links
+https://expressjs.com/en/guide/routing.html
+https://expressjs.com/en/guide/writing-middleware.html
+https://hevodata.com/learn/node-express-mongodb/
+
+mongodb set up model tables
+https://www.baeldung.com/java-check-collection-existence-mongodb
+https://www.geeksforgeeks.org/mongoose-model-createcollection-api/
+https://stackoverflow.com/questions/13444876/node-js-mongoose-check-if-a-collection-exists
+https://stackoverflow.com/questions/19961387/trying-to-get-a-list-of-collections-from-mongoose
+
+
+functions
+https://www.makeuseof.com/express-apps-user-authentication-implementing/
+
+
+misc 
+https://stackoverflow.com/questions/68827625/function-parameter-type-in-javascript
+|https://stackoverflow.com/questions/16631064/declare-multiple-module-exports-in-node-js
